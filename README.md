@@ -14,29 +14,29 @@ Simple python script to calculate SNR for a given CCD configuration
 
  - Mirror Diameter (meters)
 
- -Focal Ratio (F/xx.xx)
+ - Focal Ratio (F/xx.xx)
 
- -Filter Bandwidth (nanometers)
+ - Filter Bandwidth (nanometers)
 
- -Overall System Throughput (percent/100)
+ - Overall System Throughput (percent/100)
 
 ### CCD Config
 
- -Pixel Area (micrometers)
+ - Pixel Area (micrometers)
 
- -Detector Gain (e-/photon)
+ - Detector Gain (e-/photon)
 
- -Dark Current (e-/pix/sec)
+ - Dark Current (e-/pix/sec)
 
- -Detector Efficiency (percent/100)
+ - Detector Efficiency (percent/100)
 
- -Aperture (arcseconds)
+ - Aperture (arcseconds)
 
 ### Target Information
 
- -Magnitude of Object (mags)
+ - Magnitude of Object (mags)
 
- -Sky Brightness (mags)
+ - Sky Brightness (mags)
 
- -Zero Point (photons/nm (bandpass)/m^2/s
+ - Zero Point (photons/nm (bandpass)/m^2/s
 
