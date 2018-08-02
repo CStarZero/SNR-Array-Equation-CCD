@@ -12,7 +12,7 @@ Simple python script to calculate SNR for a given CCD configuration
 
 ### Telescope Config
 
- -Mirror Diameter (meters)
+ - Mirror Diameter (meters)
 
  -Focal Ratio (F/xx.xx)
 
